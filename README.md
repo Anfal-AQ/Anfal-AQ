@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anfal :)</h1>
-<h3 align="center">A student CS at Taibah University</h3>
+<h3 align="center">A Computer Science Graduate from Taibah University</h3>
 
-- 🌱 I’m currently learning **UI/UX design and Python**
-
-- 🤝 I’m interested in **programming and Web Development**
-
-- 📫 How to reach me **email: @anfalalraddadi2020@gmail.com**
+- 🌱 I’m currently learning **AI, Data Analysis, and Python**
+- 🤝 I’m interested in **AI projects and programming**
+- 📫 How to reach me: **email: anfalalraddadi2020@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
