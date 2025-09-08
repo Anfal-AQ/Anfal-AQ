@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Science Graduate from Taibah University</h3>
 
 - 🌱 I’m currently learning **AI, Data Analysis, and Python**
-- 🤝 I’m interested in **AI projects and programming**
+- 🤝 I’m interested in **AI  and programming**
 - 📫 How to reach me: **email: anfalalraddadi2020@gmail.com**
 
 
